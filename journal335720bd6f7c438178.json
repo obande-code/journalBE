@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "journal-335720",
+  "private_key_id": "bd6f7c438178a668faf624e481fc77dc9f3c7030",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDtygX4W3zqF4H+\nbCQR8lIdAVLSzR7pK70Jd5tEC8FU4N45Mi6FZxsTbXPgOpB5gdW8+jk6Slw3XA39\n4oD44ZIwrjadWaawWf61otHxqxYLKxOpkQtbLqU/uQDXbUkooow8Pk5+nqnE8Ld+\neIgJZ7fEta0Su+vG4yjYwpfJnOSJt/baMj1aozn0588AU76scEubjSDFjf+Yvmc8\nxRUJBV/u+hGmFq3ikZp/c/1N9Dm+S5KMN0Q3NZFl7w+VdZvP1A7S6v3re/n+3rhU\n7KsEW5fZ2vxX424y4LoTowxbjWw9vFjbCDF+H/Ndg+rkxLAgVh3pZ07jBhJaTVts\nEiyExU97AgMBAAECggEAUlSHWqU6i8aV4KRKnNgcrCRAK/KPSEY3jmaWIKo9RwkQ\niBci2leHnWNhInrEeP2GJocwd0k1wokh4wyggQuA1VAMYtCekSKnuPXl4NnOqRFC\nHoy0tN5ioryIWQ5irSoSie08ukRvHVwG/Ef5OeBqVTZd9UWRbexKwTom2cxzqGaZ\nu7PWFhjd9snk6kxMUKs6Ry0NHOo7M+FclqroHZ1MgYeBynv+j0FOPnAc+cFzUbhO\nRoEDpo4XJBTaxZubNxIY34GnFxa63JZo8C6PEIiBHEK9ViWM3/IbZCCMHOyYDTur\njV2/pUzgODOOsKBOBuo3GlY7K7YWWRtGWg8vCTv48QKBgQD4Oa0DvNYgeul8pWSI\nGQki98NWpr9RXkJHbmp1HbWsu6A4DF6iu7AqeaoasUMI6ZtuJ/TZpB1xmAMX8LOC\ngagfHMYIJTAkLsTjyiLKUiz7pwW8XAqCaCdW3qQ+TtcMYRLRhZhvpDUGzMun13TY\nSAvUeOJWk76plUZYj7wrwF78AwKBgQD1PKsROkKz1F0pXZJvMHQiNz2HQ3hQxF3+\n+aBOB0wcaECNWHGTXjWHLRo1WxUdWEkda+fGYZGz2zB+9GqKi+c6xnDhmBCJnFMg\nKKQL3whssVQb/taeidSNAROEFFqHJdoLL6ZUAlLtUgFwMHGxbVtJ5Vc/4iUq7kdW\nBD7ilUZRKQKBgGZPP2R+/LK+dmYNtXXy+7UR8c1RRSHAfAj9FZvX9v2PB+aSEp94\nRI/9PYNq9HpD7vBkP6NE5W3gfcXsS9DKqATK00SgL0t6i2Rn+Bbz7955ZP/R3/MI\nAs7nTULxM+nCSQNa0Q2S3NhEqNwxDdPnPhkBCiktFDTJdgkilShjTcMJAoGAcQmF\n0GsKU9mPF4IJ/TZYUW0k7zQqQRBCQ0TMnyq96lojZwNdVpAWHDit2+of0WbgTK9w\nJgDTKBPgRqRid3oFGxJc9Z8iAEwOBMS22MH1ICScoErWojzlvBjC5h57m8/WsVFF\nWXO4xasG/q9VuHKvoWAU111lxGQQfZV3ZvlncAECgYAH4UbYUOi66i3zbM6NLSrd\nPN/RwycsVkOmVGxTeMbVF6ebxKVZvW3ZYqsVP+J2L6xA0K3GHNqR3tMKmbRPaLC4\nQG6M39PFkLKinAWhalt3YnnMaxARiwVjfUk5GPiuGlrb24x8/bz4A3RVPOA1rQ+K\nZUF/GQRGsR4lXfA1xbEEQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "journal-service@journal-335720.iam.gserviceaccount.com",
+  "client_id": "116354449070879183085",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/journal-service%40journal-335720.iam.gserviceaccount.com"
+}
