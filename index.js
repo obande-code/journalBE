@@ -126,6 +126,15 @@ const init = async () => {
             }
         }
     })
+    server.route({
+        method: 'GET',
+        path: '/',
+        config: {
+            handler: async (request, h) => {
+                return 'success';
+            }
+        }
+    })
     await server.start();
     console.log('Server running on %s', server.info.uri);
 };
