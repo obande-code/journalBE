@@ -14,7 +14,6 @@ let credential = null;
 const init = async () => {
   const server = Hapi.server({
     port: 3005,
-    host: "localhost",
   });
 
   server.route({
