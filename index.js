@@ -13,7 +13,7 @@ let transData = [];
 let credential = null;
 const init = async () => {
   const server = Hapi.server({
-    port: 3005,
+    port: 1335,
   });
 
   server.route({
